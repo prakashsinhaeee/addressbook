@@ -1,5 +1,4 @@
 This is new line
-edit a new line
 Addressbook Tutorial
 ====================
 
